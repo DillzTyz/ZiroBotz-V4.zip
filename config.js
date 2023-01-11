@@ -3,28 +3,28 @@ Untuk gambar background menu ada - di plugins menu
 untuk lainya saran jangan di ubah bre nanti eror*/
 
 /*global owner*/
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-/*Nomor Owner & payment*/
-global.nameowner = 'BOTCAHX'
-global.numberowner = '6281395861695' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
+global . pemilik = [ ' 6281919269167 ' ]
+global . mod      = [ '6281919269167' ]
+global . premi  = [ '6281919269167' ]
+/*Nomor Pemilik & pembayaran*/
+global . pemilik nama = ' Dillz Botz ' 
+global . pemilik nomor = ' 6281919269167  '  
+global . dana  =  '6281919269167'
+global . pulsa  =  '6281919269167'
+global . gopay  = '6281919269167'
 /*Nama Bot & Grouplink*/
-global.namebot = 'RTXZY-MD'
-global.gc = 'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
+global . namebot  =  'Dillz-Botz'
+global . gc  =  'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
 global.web = 'https://github.com/BOTCAHX'
 global.instagram = 'https://instagram.com/prm2.0'
 /*global wm*/
 global.lolkey = 'rey2k22'
 global.zenzkey = 'BagasPrdn'
-global.wm = '© R-TXZY-MD'
+global.wm = '© Dillz Botz'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
-global.wm4 = '© BOT RTXZY'
+global.wm2 = '⫹⫺ Dillz-Botz'
+global.wm3 = '© DillzBotz'
+global.wm4 = '© Dillz '
 global.fla = 'https://api.tiodevhost.my.id/api/textpro/glitch?text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -32,7 +32,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\nR-Dillz-Botz'
 /*Rest api setting*/
 global.APIs = { // API Prefix
   // name: 'https://website'
